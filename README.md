@@ -6,7 +6,7 @@ This project is a Java Spring Boot application that implements JWT (JSON Web Tok
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/karththikeyanK/JWT.git`
 2. Navigate to the project directory: `cd JWT`
 3. Build the project: `mvn clean install`
 4. Run the application: `mvn spring-boot:run`
